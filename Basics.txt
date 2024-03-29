@@ -1,0 +1,18 @@
+How is my Code Running
+i.Compilation
+        The source code(.java) gets converted to Byte code(.class) using compiler(JRE).
+        Java is a portable Language.
+
+ii.Execution
+        Byte code(.class) gets converted to Navtive code by JVM
+
+
+Java class 1
+    1.Function-- Part of the code where u want it to do ur work.
+        void main(){}
+
+    2.class(hel)-- A big entity which contains many functions or class.
+                    The main function executes first.
+        class main{
+            void main(){}
+        }
