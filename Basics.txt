@@ -16,3 +16,42 @@ Java class 1
         class main{
             void main(){}
         }
+
+
+1.     Variables
+2.     Methods
+3.     Condition statements
+4.     Loop statements
+5.     Arrays
+6.     String Functions
+7.     Static
+8.     non-static  and  JVM memory     
+9.     class and object
+10.    programming --
+·               factorial
+·              Fibonacci series
+·              Reverse a String
+·              Prime no
+·              Odd even
+·              Patterns
+11.    Blocks
+12.    Constructor
+13.    Pass by value
+14.    Pass by reference
+15.    Composition
+16.    Inheritance
+17.    Method Overloading  -second mock
+18.    Method Overriding
+19.    Typecasting
+20.    Polymorphism
+21.    Abstract class
+22.    Interface
+23.    Package
+24.    Access Specifiers
+25.    Encapsulation
+26.    Collection
+27.    Object class
+28.    String class
+29.    Exception handling
+30.    Threads
+31.    File handling
