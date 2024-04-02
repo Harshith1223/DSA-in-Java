@@ -55,3 +55,7 @@ Java class 1
 29.    Exception handling
 30.    Threads
 31.    File handling
+git remote add origin https://github.com/Harshith1223/DSA-in-Java.git
+git remote -v
+git branch
+ git push origin main
