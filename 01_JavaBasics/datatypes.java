@@ -10,5 +10,6 @@ public class datatypes {
         char g='X';
         boolean h=true;
         System.out.println(a+" "+b+" "+c+" "+d+" "+e+" "+f+" "+g+" "+h);
+
     }
 }
