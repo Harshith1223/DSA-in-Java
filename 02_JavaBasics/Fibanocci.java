@@ -6,6 +6,7 @@ public class Fibanocci {
         int fib2=1;
         Scanner sc = new Scanner(System.in);
         int input = sc.nextInt();
+        sc.close();
         System.out.print(fib1 + " " + fib2 + " ");
         for (int i = 0; i < input; i++) {
             int fib3 = fib1+fib2;
